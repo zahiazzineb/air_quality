@@ -1,4 +1,5 @@
-#!pip install streamlit
+!pip install streamlit
+!pip install sklearn
 import streamlit as st
 import pandas as pd
 from sklearn.preprocessing import StandardScaler
